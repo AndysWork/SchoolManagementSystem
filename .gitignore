@@ -6,3 +6,5 @@
 /.vs/VSWorkspaceState.json
 /SMS/.vs/SMS/FileContentIndex
 /SMS/SMS.Server/obj
+/SMS/.vs/SMS/DesignTimeBuild
+/SMS/SMS.Client/package-lock.json
