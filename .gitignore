@@ -9,3 +9,4 @@
 /SMS/.vs/SMS/DesignTimeBuild
 /SMS/SMS.Client/package-lock.json
 /SMS/.vs
+/SMS/SMS.Server/bin/Debug/net8.0
